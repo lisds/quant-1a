@@ -1,16 +1,25 @@
 # Quant 1a
 
 This repository contains Jupyter notebooks for weeks 08--10 of the
-2025/26 BASc Quant 1a module.
+2026/27 BASc Quant 1a module. These notebooks help us learn to
+programme in Python. [This introductory notebook explains how to understand the botebooks](./jupyter_intro.ipynb).
 
-*Note on content*: we will introduce Python across weeks 08 and 09,
-making use of Jupyter notebooks to run Python; [read this introduction
-for more information](./jupyter_intro.ipynb).
+*Note on content*: There are three versions of each notebook:
 
-*Note on structure*: materials are organised by week, placed in a
- subfolder for that week; there is also a subfolder for any [process
- assessment(s)](./process-assessments).
+- chapter: contains pre-typed code (looks like the book chapter)
+- blank: most of the code has been removed
+- solutions: same as complete, but with answers to the exercises
 
-Week 8 and 9 notebooks are based on the Google colab versions provided
-with the core reading, [Think Python by Allen
-Downey](https://allendowney.github.io/ThinkPython/index.html).
+If you're feeling confident, you're encouraged to use the blank
+version and type along during sessions and/or practise later. If
+you're drawing a blank, run the chapter version.
+
+Note solutions will not be shared ahead of class.
+
+*Note on structure*: Each version is contained in a separate folder,
+ of the same name.
+ 
+The notebooks are based on those provided with the core reading,
+[Think Python by Allen
+Downey](https://allendowney.github.io/ThinkPython/index.html). With
+thanks to Allen Downey for this excellent CC BY-NC-SA 4.0 resource.
